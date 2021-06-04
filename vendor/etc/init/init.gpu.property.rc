@@ -1,0 +1,4 @@
+# Auto-generated
+# date: Tue Jul 28 18:41:49 CST 2020
+on init
+    setprop ro.opengles.version 196610
