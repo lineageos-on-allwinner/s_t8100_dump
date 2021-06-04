@@ -1,0 +1,14 @@
+# treble_a64_bvS-userdebug 11 RQ2A.210505.003 210520 test-keys
+- manufacturer: 
+- platform: ceres
+- codename: T8100
+- flavor: treble_a64_bvS-userdebug
+- release: 11
+- id: RQ2A.210505.003
+- incremental: 210520
+- tags: test-keys
+- fingerprint: S/T8100/T8100:10/QP1A.191105.004/bnd_xnq07211222:user/release-keys
+- is_ab: false
+- brand: S
+- branch: treble_a64_bvS-userdebug-11-RQ2A.210505.003-210520-test-keys
+- repo: s_t8100_dump
